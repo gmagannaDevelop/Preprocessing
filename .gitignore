@@ -1,3 +1,7 @@
 mycreds.txt
 client_secrets.json
 Drive.py
+.ipynb_checkpoints
+__pycache__/*
+*.jl
+*.csv
